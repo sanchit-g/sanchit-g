@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Sanchit Gupta
 
-### Software Development Engineer | Backend Specialist
+### Software Development Engineer @ Addverb Technologies Ltd.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchitg18)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanchit-g)
@@ -14,11 +14,13 @@
 
 ## 🚀 About Me
 
-Hey there! I'm a backend engineer who's spent the last couple of years building microservices and distributed systems. I love solving performance problems and making things run faster (there's something satisfying about cutting API latency by 70%).
+I'm a backend engineer who's been building microservices for the past couple years. Work mainly with Java, Spring Boot, and event-driven systems — Kafka, RabbitMQ, that whole world.
 
-These days, I work primarily with Java and Spring Boot, but I also enjoy experimenting with Python for AI/ML projects. Recently got into building RAG systems and exploring how LLMs can solve real-world problems.
+What I love most? Solving performance problems. Nothing beats the rush of tracking down why something's slow and fixing it.
 
-When I'm not debugging production issues or writing code, you'll probably find me on LeetCode or tinkering with a side project.
+Recently started exploring AI/ML. Built a RAG-based chatbot and an NLP tagging system because I wanted to understand what's actually happening beneath all the AI hype. Pretty fascinating stuff.
+
+Also a bit of a LeetCode addict. Feel free to connect if you're into backend systems, microservices, or just want to geek out about tech!
 
 ---
 
