@@ -18,9 +18,7 @@ I'm a backend engineer who's been building microservices for the past couple yea
 
 What I love most? Solving performance problems. Nothing beats the rush of tracking down why something's slow and fixing it.
 
-Recently started exploring AI/ML. Built a RAG-based chatbot and an NLP tagging system because I wanted to understand what's actually happening beneath all the AI hype. Pretty fascinating stuff.
-
-Also a bit of a LeetCode addict. Feel free to connect if you're into backend systems, microservices, or just want to geek out about tech!
+Feel free to connect if you're into backend systems, microservices, or just want to geek out about tech!
 
 ---
 
